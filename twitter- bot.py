@@ -31,7 +31,7 @@ while True:
     api.update_profile(name=f'KUSHI|{follower(user)} Followers')
     print(f'Updating Twitter Name : KUSHI|{follower(user)} Followers')
     print('Waiting to refresh')
-    time.sleep(60)
+    time.sleep(60) 
           
     
            
