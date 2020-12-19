@@ -1,1 +1,1 @@
-worker: Python twitter-bot.py
+worker: python twitter-bot.py
